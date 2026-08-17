@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Animated GitHub transmission dashboard">
+<defs>
+ <linearGradient id="c" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="560" rx="28" fill="#060609"/>
+<rect width="1200" height="560" rx="28" fill="url(#grid)"/>
+<text x="50" y="55" fill="#00f5ff" font-family="monospace" font-size="12" letter-spacing="4">05 / TRANSMISSION</text>
+<text x="50" y="94" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="800">GITHUB SIGNAL / LIVE FEED</text>
+<circle cx="1125" cy="49" r="6" fill="#00f5ff" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="1080" y="76" fill="#777783" font-family="monospace" font-size="9">ONLINE</text>
+<!-- metric panels -->
+<g transform="translate(50 125)">
+ <rect width="340" height="125" rx="16" fill="#0b0b10" stroke="#fff" stroke-opacity=".1"/>
+ <text x="24" y="30" fill="#777783" font-family="monospace" font-size="10" letter-spacing="2">IDENTITY</text>
+ <text x="24" y="68" fill="#fff" font-family="monospace" font-size="22">JOBAN33</text>
+ <text x="24" y="96" fill="#00f5ff" font-family="monospace" font-size="10">● ACTIVE BUILDER</text>
+ <path d="M220 91h90" stroke="url(#c)" stroke-width="2" stroke-dasharray="8 7"><animate attributeName="stroke-dashoffset" from="0" to="-30" dur="1.5s" repeatCount="indefinite"/></path>
+</g>
+<g transform="translate(410 125)">
+ <rect width="340" height="125" rx="16" fill="#0b0b10" stroke="#fff" stroke-opacity=".1"/>
+ <text x="24" y="30" fill="#777783" font-family="monospace" font-size="10" letter-spacing="2">REPOSITORIES</text>
+ <text x="24" y="75" fill="#fff" font-family="Arial,sans-serif" font-size="38" font-weight="800">04</text>
+ <text x="112" y="75" fill="#777783" font-family="monospace" font-size="10">PUBLIC / PRIVATE</text>
+ <rect x="24" y="96" width="285" height="4" rx="2" fill="#16161d"/>
+ <rect x="24" y="96" width="190" height="4" rx="2" fill="url(#c)"><animate attributeName="width" values="120;285;120" dur="3s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(770 125)">
+ <rect width="380" height="125" rx="16" fill="#0b0b10" stroke="#fff" stroke-opacity=".1"/>
+ <text x="24" y="30" fill="#777783" font-family="monospace" font-size="10" letter-spacing="2">MODE</text>
+ <text x="24" y="75" fill="#fff" font-family="monospace" font-size="22">BUILD / SHIP</text>
+ <text x="24" y="98" fill="#777783" font-family="monospace" font-size="10">MOTION ENGINE: RUNNING</text>
+ <circle cx="330" cy="64" r="20" fill="none" stroke="#00f5ff" stroke-opacity=".15"/>
+ <circle cx="330" cy="64" r="12" fill="none" stroke="#00f5ff" stroke-width="2" stroke-dasharray="4 6"><animateTransform attributeName="transform" type="rotate" from="0 330 64" to="360 330 64" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+<!-- signal graph -->
+<g transform="translate(50 280)">
+ <rect width="1100" height="220" rx="18" fill="#08080c" stroke="#fff" stroke-opacity=".08"/>
+ <text x="25" y="32" fill="#777783" font-family="monospace" font-size="10" letter-spacing="2">ACTIVITY / SIGNAL TRACE</text>
+ <line x1="25" y1="65" x2="1075" y2="65" stroke="#fff" stroke-opacity=".05"/>
+ <line x1="25" y1="105" x2="1075" y2="105" stroke="#fff" stroke-opacity=".05"/>
+ <line x1="25" y1="145" x2="1075" y2="145" stroke="#fff" stroke-opacity=".05"/>
+ <path d="M25 155 L70 145 L115 160 L160 110 L205 130 L250 80 L295 135 L340 120 L385 150 L430 95 L475 115 L520 70 L565 130 L610 105 L655 145 L700 90 L745 125 L790 80 L835 115 L880 65 L925 125 L970 95 L1015 145 L1075 105" fill="none" stroke="url(#c)" stroke-width="3" filter="url(#glow)" stroke-dasharray="10 8">
+   <animate attributeName="stroke-dashoffset" from="0" to="-180" dur="3s" repeatCount="indefinite"/>
+ </path>
+ <circle cx="880" cy="65" r="5" fill="#fff" filter="url(#glow)"><animate attributeName="r" values="4;9;4" dur="1.3s" repeatCount="indefinite"/></circle>
+ <text x="25" y="190" fill="#555560" font-family="monospace" font-size="9">RECENT ACTIVITY</text>
+ <text x="185" y="190" fill="#00f5ff" font-family="monospace" font-size="9">CODE</text>
+ <text x="260" y="190" fill="#7c3aed" font-family="monospace" font-size="9">DESIGN</text>
+ <text x="350" y="190" fill="#fff" font-family="monospace" font-size="9">BUILD</text>
+</g>
+<text x="600" y="535" text-anchor="middle" fill="#555560" font-family="monospace" font-size="9" letter-spacing="3">TRANSMISSION STABLE // SIGNAL CONTINUES</text>
+</svg>
