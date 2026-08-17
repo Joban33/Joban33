@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Animated build signal reel">
+<defs>
+ <linearGradient id="a"><stop stop-color="#00f5ff"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff2d75"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="24" fill="#050507"/><rect width="1200" height="300" rx="24" fill="url(#g)"/>
+<text x="45" y="42" fill="#666672" font-family="monospace" font-size="10" letter-spacing="4">LIVE BUILD TELEMETRY</text>
+<text x="45" y="82" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="800">SIGNAL // BUILD // SHIP</text>
+<g transform="translate(45 110)">
+ <rect width="1110" height="95" rx="14" fill="#09090d" stroke="#fff" stroke-opacity=".08"/>
+ <path d="M0 55 C45 55 48 20 72 55 S100 90 125 55 S155 10 180 55 S210 88 240 55 S275 28 305 55 S340 82 370 55 S405 12 440 55 S475 90 505 55 S540 20 575 55 S610 86 640 55 S680 15 715 55 S750 92 785 55 S820 24 850 55 S885 88 920 55 S955 15 985 55 S1020 92 1050 55 S1080 30 1110 55" fill="none" stroke="url(#a)" stroke-width="2" filter="url(#glow)"/>
+ <circle cx="0" cy="55" r="5" fill="#00f5ff" filter="url(#glow)"><animate attributeName="cx" values="0;1110;0" dur="5s" repeatCount="indefinite"/></circle>
+ <rect x="20" y="18" width="70" height="2" fill="#00f5ff" opacity=".4"><animate attributeName="x" values="20;1000;20" dur="4s" repeatCount="indefinite"/></rect>
+</g>
+<g font-family="monospace" font-size="10">
+ <text x="55" y="235" fill="#00f5ff">01</text><text x="80" y="235" fill="#777783">LEARN</text>
+ <text x="220" y="235" fill="#7c3aed">02</text><text x="245" y="235" fill="#777783">EXPERIMENT</text>
+ <text x="430" y="235" fill="#ff2d75">03</text><text x="455" y="235" fill="#777783">BUILD</text>
+ <text x="610" y="235" fill="#fff">04</text><text x="635" y="235" fill="#777783">BREAK</text>
+ <text x="790" y="235" fill="#00f5ff">05</text><text x="815" y="235" fill="#777783">REBUILD</text>
+ <text x="1000" y="235" fill="#fff">06</text><text x="1025" y="235" fill="#777783">SHIP</text>
+</g>
+<text x="600" y="272" text-anchor="middle" fill="#3f3f48" font-family="monospace" font-size="9" letter-spacing="3">MOTION IS PART OF THE INTERFACE</text>
+</svg>
