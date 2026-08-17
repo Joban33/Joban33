@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Jobanpreet Singh Gill animated profile hero" width="100%" />
+<img src="./assets/hero-v2.svg" alt="Jobanpreet Singh Gill animated profile hero" width="100%" />
 
 <br/>
 
@@ -54,7 +54,7 @@
 ### `04 / STACK`
 
 <div align="center">
-<img src="./assets/stack-constellation.svg" alt="Animated technology constellation" width="100%" />
+<img src="./assets/stack-v2.svg" alt="Animated technology constellation" width="100%" />
 </div>
 
 ---
