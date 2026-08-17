@@ -59,32 +59,26 @@
 
 ---
 
-<div align="center">
+### `05 / TRANSMISSION`
 
+<div align="center">
 <img src="./assets/transmission.svg" alt="Animated GitHub transmission dashboard" width="100%" />
 
 <br/>
 
-<a href="https://github.com/Joban33">
-<img src="https://github-readme-stats.vercel.app/api?username=Joban33&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b95&icon_color=00f5ff&rank_icon=github" height="165" />
-</a>
-<a href="https://github.com/Joban33">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joban33&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b95" height="165" />
-</a>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joban33&bg_color=00000000&color=8b8b95&line=00f5ff&point=ffffff&area=true&hide_border=true" width="95%" />
+**[ VIEW LIVE GITHUB ACTIVITY → ](https://github.com/Joban33)**
 
 </div>
 
 ---
+
+### `06 / FINAL TRANSMISSION`
 
 <div align="center">
 <img src="./assets/final-transmission.svg" alt="Animated final transmission" width="100%" />
 
 <br/>
 
-**[ GitHub ](https://github.com/Joban33) · [ Projects ](https://github.com/Joban33?tab=repositories)**
+**[ GITHUB ](https://github.com/Joban33) · [ PROJECTS ](https://github.com/Joban33?tab=repositories)**
 
 </div>
