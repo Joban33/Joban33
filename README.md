@@ -1,16 +1,90 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Joban33/Joban33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/hero.svg" alt="Jobanpreet Singh Gill animated profile hero" width="100%" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-Joban33-111111?style=for-the-badge&logo=github)](https://github.com/Joban33)
+[![Profile Views](https://komarev.com/ghpvc/?username=Joban33&style=for-the-badge&color=111111)](https://github.com/Joban33)
+
+</div>
+
+---
+
+### `01 / NOW BUILDING`
+
+```text
+┌─ AI / ML ───────────────┐
+│ learning → experimenting │
+├─ SOFTWARE ──────────────┤
+│ building → shipping      │
+├─ WEB ───────────────────┤
+│ designing → deploying    │
+└──────────────────────────┘
+```
+
+> **Less tutorial collector. More builder.**
+
+<div align="center">
+
+`PYTHON` · `C++` · `JAVASCRIPT` · `REACT` · `NEXT.JS` · `GIT`
+
+</div>
+
+---
+
+### `02 / SELECTED SIGNALS`
+
+<table>
+<tr>
+<td width="50%">
+
+**IMAGE CONVERTER**  
+A practical image-processing web tool.
+
+`React` `Vite` `JavaScript`
+
+[→ repository](https://github.com/Joban33/Image-Converter)
+
+</td>
+<td width="50%">
+
+**ANGURAL COLLECTION**  
+A visual e-commerce experiment.
+
+`Web` `UI` `Product`
+
+Private build
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `03 / TRANSMISSION`
+
+<a href="https://github.com/Joban33">
+<img src="https://github-readme-stats.vercel.app/api?username=Joban33&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b95&icon_color=00f5ff&rank_icon=github" height="165" />
+</a>
+<a href="https://github.com/Joban33">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joban33&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b95" height="165" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joban33&bg_color=00000000&color=8b8b95&line=00f5ff&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+`[ BUILD ]`  `[ BREAK ]`  `[ REBUILD ]`  `[ SHIP ]`
+
+**If it can be better, it isn't finished.**
+
+</div>
