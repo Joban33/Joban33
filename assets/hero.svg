@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Jobanpreet Singh Gill animated profile hero">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050505"/><stop offset="0.55" stop-color="#0d0d12"/><stop offset="1" stop-color="#050505"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="0.5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff2d75"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="420" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="420" fill="url(#bg)"/>
+<rect width="1200" height="420" fill="url(#grid)"/>
+<g opacity=".55" filter="url(#glow)">
+  <circle cx="100" cy="70" r="2" fill="#00f5ff"><animate attributeName="cy" values="70;350;70" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="1060" cy="330" r="2" fill="#ff2d75"><animate attributeName="cx" values="1060;780;1060" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="930" cy="90" r="1.5" fill="#7c3aed"><animate attributeName="cy" values="90;300;90" dur="6s" repeatCount="indefinite"/></circle>
+</g>
+<path d="M-80 330 C180 180 250 430 500 270 S900 80 1280 220" fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".35">
+  <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M-80 330 C180 180 250 430 500 270 S900 80 1280 220;M-80 270 C180 420 300 130 520 250 S930 390 1280 150;M-80 330 C180 180 250 430 500 270 S900 80 1280 220"/>
+</path>
+<g transform="translate(70 64)">
+  <text x="0" y="0" fill="#00f5ff" font-family="monospace" font-size="13" letter-spacing="4">SYSTEM / PROFILE_01</text>
+  <text x="0" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2">JOBANPREET</text>
+  <text x="0" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2">SINGH GILL</text>
+  <rect x="0" y="174" width="72" height="3" rx="1.5" fill="url(#line)"><animate attributeName="width" values="72;250;72" dur="3.5s" repeatCount="indefinite"/></rect>
+  <text x="0" y="215" fill="#b8b8c2" font-family="monospace" font-size="17">AI / ML  •  SOFTWARE  •  BUILDER</text>
+  <text x="0" y="260" fill="#777783" font-family="monospace" font-size="12">BUILDING THINGS THAT SHOULD NOT LOOK BORING.</text>
+</g>
+<g transform="translate(870 70)">
+  <rect width="250" height="250" rx="18" fill="#07070a" stroke="#ffffff" stroke-opacity=".12"/>
+  <circle cx="125" cy="125" r="74" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+  <circle cx="125" cy="125" r="48" fill="none" stroke="url(#line)" stroke-width="2" stroke-dasharray="9 12" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" from="0 125 125" to="360 125 125" dur="8s" repeatCount="indefinite"/></circle>
+  <circle cx="125" cy="125" r="7" fill="#fff" filter="url(#glow)"><animate attributeName="r" values="5;9;5" dur="1.8s" repeatCount="indefinite"/></circle>
+  <path d="M125 48V25M125 202v23M48 125H25M202 125h23" stroke="#00f5ff" stroke-width="2" opacity=".7"/>
+  <text x="125" y="120" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" letter-spacing="3">GHOST</text>
+  <text x="125" y="143" text-anchor="middle" fill="#777783" font-family="monospace" font-size="9">ONLINE</text>
+</g>
+<g transform="translate(70 355)" font-family="monospace" font-size="11">
+ <text fill="#6f707a">STATUS</text><text x="62" fill="#00f5ff">● ACTIVE</text>
+ <text x="185" fill="#6f707a">MODE</text><text x="235" fill="#fff">BUILD</text>
+ <text x="330" fill="#6f707a">LOCATION</text><text x="405" fill="#fff">INDIA</text>
+</g>
+</g>
+</svg>
