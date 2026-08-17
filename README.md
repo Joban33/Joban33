@@ -13,58 +13,45 @@
 
 ### `01 / NOW BUILDING`
 
-```text
-┌─ AI / ML ───────────────┐
-│ learning → experimenting │
-├─ SOFTWARE ──────────────┤
-│ building → shipping      │
-├─ WEB ───────────────────┤
-│ designing → deploying    │
-└──────────────────────────┘
-```
-
-> **Less tutorial collector. More builder.**
-
 <div align="center">
 
-`PYTHON` · `C++` · `JAVASCRIPT` · `REACT` · `NEXT.JS` · `GIT`
+`AI / ML`  `SOFTWARE`  `WEB`  `SYSTEMS`
+
+**Learning → Experimenting → Building → Shipping**
 
 </div>
 
 ---
 
-### `02 / SELECTED SIGNALS`
+### `02 / PROJECT SIGNAL`
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+<img src="./assets/projects.svg" alt="Animated selected projects showcase" width="100%" />
+</div>
 
-**IMAGE CONVERTER**  
-A practical image-processing web tool.
+<br/>
 
-`React` `Vite` `JavaScript`
+<div align="center">
 
-[→ repository](https://github.com/Joban33/Image-Converter)
+**[ IMAGE CONVERTER → ](https://github.com/Joban33/Image-Converter)** &nbsp;&nbsp; **[ BLACKSIGNAL → ](https://github.com/Joban33/hacckker)**
 
-</td>
-<td width="50%">
+</div>
 
-**ANGURAL COLLECTION**  
-A visual e-commerce experiment.
+---
 
-`Web` `UI` `Product`
+### `03 / STACK`
 
-Private build
+<div align="center">
 
-</td>
-</tr>
-</table>
+`PYTHON` · `C++` · `JAVASCRIPT` · `REACT` · `NEXT.JS` · `TYPESCRIPT` · `GIT`
+
+</div>
 
 ---
 
 <div align="center">
 
-### `03 / TRANSMISSION`
+### `04 / TRANSMISSION`
 
 <a href="https://github.com/Joban33">
 <img src="https://github-readme-stats.vercel.app/api?username=Joban33&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b95&icon_color=00f5ff&rank_icon=github" height="165" />
