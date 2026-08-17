@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Animated final transmission">
+<defs>
+ <linearGradient id="g"><stop stop-color="#00f5ff"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff2d75"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="440" rx="28" fill="#050507"/>
+<rect width="1200" height="440" rx="28" fill="url(#grid)"/>
+<circle cx="600" cy="220" r="115" fill="none" stroke="#fff" stroke-opacity=".05"/>
+<circle cx="600" cy="220" r="78" fill="none" stroke="url(#g)" stroke-width="2" stroke-dasharray="5 12" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" from="0 600 220" to="360 600 220" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="600" cy="220" r="7" fill="#fff" filter="url(#glow)"><animate attributeName="r" values="5;11;5" dur="1.7s" repeatCount="indefinite"/></circle>
+<path d="M600 95V35M600 345v60M475 220H415M725 220h60" stroke="url(#g)" stroke-width="2" opacity=".6"/>
+<text x="600" y="58" text-anchor="middle" fill="#777783" font-family="monospace" font-size="11" letter-spacing="5">FINAL TRANSMISSION / 07</text>
+<text x="600" y="175" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="42" font-weight="800">KEEP BUILDING.</text>
+<text x="600" y="205" text-anchor="middle" fill="#9696a0" font-family="monospace" font-size="12">THE SIGNAL DOESN'T END HERE.</text>
+<g transform="translate(350 300)">
+ <rect width="500" height="42" rx="21" fill="#0b0b10" stroke="#fff" stroke-opacity=".1"/>
+ <circle cx="25" cy="21" r="5" fill="#00f5ff" filter="url(#glow)"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle>
+ <text x="45" y="26" fill="#777783" font-family="monospace" font-size="10">STATUS</text>
+ <text x="105" y="26" fill="#fff" font-family="monospace" font-size="10">SIGNAL ACTIVE</text>
+ <text x="285" y="26" fill="#777783" font-family="monospace" font-size="10">NEXT</text>
+ <text x="325" y="26" fill="#00f5ff" font-family="monospace" font-size="10">BUILD →</text>
+</g>
+<text x="600" y="385" text-anchor="middle" fill="#555560" font-family="monospace" font-size="10" letter-spacing="3">JOBAN33 // AI • SOFTWARE • WEB • SYSTEMS</text>
+<path d="M250 405H950" stroke="url(#g)" stroke-width="1" stroke-dasharray="12 12"><animate attributeName="stroke-dashoffset" from="0" to="-120" dur="2s" repeatCount="indefinite"/></path>
+</svg>
