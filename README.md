@@ -51,12 +51,8 @@
 
 ---
 
-### `04 / STACK`
-
 <div align="center">
-
-`PYTHON` · `C++` · `JAVASCRIPT` · `REACT` · `NEXT.JS` · `TYPESCRIPT` · `GIT`
-
+<img src="./assets/stack.svg" alt="Animated technology constellation" width="100%" />
 </div>
 
 ---
