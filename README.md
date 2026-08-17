@@ -11,6 +11,10 @@
 
 ---
 
+<div align="center">
+<img src="./assets/signal-reel.svg" alt="Animated build signal reel" width="100%" />
+</div>
+
 ### `01 / NOW BUILDING`
 
 <div align="center">
@@ -39,7 +43,15 @@
 
 ---
 
-### `03 / STACK`
+### `03 / BUILD LOOP`
+
+<div align="center">
+<img src="./assets/build-loop.svg" alt="Animated terminal build loop" width="100%" />
+</div>
+
+---
+
+### `04 / STACK`
 
 <div align="center">
 
@@ -51,7 +63,7 @@
 
 <div align="center">
 
-### `04 / TRANSMISSION`
+### `05 / TRANSMISSION`
 
 <a href="https://github.com/Joban33">
 <img src="https://github-readme-stats.vercel.app/api?username=Joban33&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b95&icon_color=00f5ff&rank_icon=github" height="165" />
