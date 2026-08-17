@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Animated technology constellation">
+<defs>
+ <linearGradient id="g"><stop stop-color="#00f5ff"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff2d75"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="430" rx="28" fill="#060609"/><rect width="1200" height="430" rx="28" fill="url(#grid)"/>
+<text x="50" y="50" fill="#00f5ff" font-family="monospace" font-size="11" letter-spacing="4">04 / STACK MATRIX</text>
+<text x="50" y="87" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="800">TOOLS I TURN INTO SYSTEMS.</text>
+<g stroke="url(#g)" stroke-width="1" opacity=".35">
+ <path d="M600 220L180 135M600 220L180 300M600 220L390 110M600 220L390 330M600 220L810 110M600 220L810 330M600 220L1020 135M600 220L1020 300"/>
+</g>
+<g font-family="monospace" text-anchor="middle">
+ <circle cx="600" cy="220" r="74" fill="#0b0b10" stroke="url(#g)" stroke-width="2" filter="url(#glow)"/>
+ <circle cx="600" cy="220" r="52" fill="none" stroke="#fff" stroke-opacity=".08" stroke-dasharray="5 8"><animateTransform attributeName="transform" type="rotate" from="0 600 220" to="360 600 220" dur="12s" repeatCount="indefinite"/></circle>
+ <text x="600" y="215" fill="#fff" font-size="17" font-weight="bold">JOBAN</text><text x="600" y="237" fill="#777783" font-size="9">CORE / BUILD</text>
+ <g fill="#0b0b10" stroke="#00f5ff"><circle cx="180" cy="135" r="48"/><circle cx="180" cy="300" r="48"/><circle cx="390" cy="110" r="48"/><circle cx="390" cy="330" r="48"/></g>
+ <g fill="#0b0b10" stroke="#7c3aed"><circle cx="810" cy="110" r="48"/><circle cx="810" cy="330" r="48"/></g>
+ <g fill="#0b0b10" stroke="#ff2d75"><circle cx="1020" cy="135" r="48"/><circle cx="1020" cy="300" r="48"/></g>
+ <g fill="#fff" font-size="12"><text x="180" y="139">PYTHON</text><text x="180" y="304">C++</text><text x="390" y="114">REACT</text><text x="390" y="334">NEXT.JS</text><text x="810" y="114">TYPESCRIPT</text><text x="810" y="334">JAVASCRIPT</text><text x="1020" y="139">GIT</text><text x="1020" y="304">AI / ML</text></g>
+</g>
+<g fill="#00f5ff"><circle cx="180" cy="135" r="3"><animate attributeName="opacity" values="1;.2;1" dur="1.5s" repeatCount="indefinite"/></circle><circle cx="810" cy="330" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.9s" repeatCount="indefinite"/></circle><circle cx="1020" cy="135" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2.3s" repeatCount="indefinite"/></circle></g>
+<text x="600" y="398" text-anchor="middle" fill="#555560" font-family="monospace" font-size="9" letter-spacing="3">LANGUAGES → FRAMEWORKS → SYSTEMS → SHIPPED WORK</text>
+</svg>
