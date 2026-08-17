@@ -51,8 +51,10 @@
 
 ---
 
+### `04 / STACK`
+
 <div align="center">
-<img src="./assets/stack.svg" alt="Animated technology constellation" width="100%" />
+<img src="./assets/stack-constellation.svg" alt="Animated technology constellation" width="100%" />
 </div>
 
 ---
@@ -79,9 +81,10 @@
 ---
 
 <div align="center">
+<img src="./assets/final-transmission.svg" alt="Animated final transmission" width="100%" />
 
-`[ BUILD ]`  `[ BREAK ]`  `[ REBUILD ]`  `[ SHIP ]`
+<br/>
 
-**If it can be better, it isn't finished.**
+**[ GitHub ](https://github.com/Joban33) · [ Projects ](https://github.com/Joban33?tab=repositories)**
 
 </div>
