@@ -63,7 +63,9 @@
 
 <div align="center">
 
-### `05 / TRANSMISSION`
+<img src="./assets/transmission.svg" alt="Animated GitHub transmission dashboard" width="100%" />
+
+<br/>
 
 <a href="https://github.com/Joban33">
 <img src="https://github-readme-stats.vercel.app/api?username=Joban33&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b8b95&icon_color=00f5ff&rank_icon=github" height="165" />
