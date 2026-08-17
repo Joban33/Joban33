@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-v2.svg" alt="Jobanpreet Singh Gill animated profile hero" width="100%" />
+<img src="./assets/hero-v3.svg" alt="Jobanpreet Singh Gill animated profile hero" width="100%" />
 
 <br/>
 
