@@ -7,27 +7,14 @@
 <rect width="1200" height="390" rx="28" fill="#060609"/><rect width="1200" height="390" rx="28" fill="url(#grid)"/>
 <text x="48" y="48" fill="#777783" font-family="monospace" font-size="11" letter-spacing="4">TECH STACK / NETWORK MAP</text>
 <text x="48" y="82" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="800">TOOLS THAT POWER THE BUILD.</text>
-<g stroke="url(#g)" stroke-width="1.5" opacity=".45">
- <path d="M600 205L180 145M600 205L320 295M600 205L460 115M600 205L780 115M600 205L880 285M600 205L1030 155M600 205L760 300"/>
-</g>
-<g fill="#0b0b10" stroke="#fff" stroke-opacity=".12">
- <rect x="125" y="120" width="150" height="50" rx="14"/><rect x="245" y="270" width="150" height="50" rx="14"/>
- <rect x="385" y="90" width="150" height="50" rx="14"/><rect x="705" y="90" width="150" height="50" rx="14"/>
- <rect x="805" y="260" width="150" height="50" rx="14"/><rect x="955" y="130" width="150" height="50" rx="14"/>
- <rect x="685" y="275" width="150" height="50" rx="14"/>
-</g>
-<g font-family="monospace" font-size="12" text-anchor="middle">
- <text x="200" y="150" fill="#00f5ff">PYTHON</text><text x="320" y="300" fill="#fff">C++</text><text x="460" y="120" fill="#00f5ff">JAVASCRIPT</text>
- <text x="780" y="120" fill="#7c3aed">REACT</text><text x="880" y="290" fill="#ff2d75">NEXT.JS</text><text x="1030" y="160" fill="#fff">TYPESCRIPT</text><text x="760" y="305" fill="#00f5ff">GIT</text>
-</g>
+<g stroke="url(#g)" stroke-width="1.5" opacity=".45"><path d="M600 205L180 145M600 205L320 295M600 205L460 115M600 205L780 115M600 205L880 285M600 205L1030 155M600 205L760 300"/></g>
+<g fill="#0b0b10" stroke="#fff" stroke-opacity=".12"><rect x="125" y="120" width="150" height="50" rx="14"/><rect x="245" y="270" width="150" height="50" rx="14"/><rect x="385" y="90" width="150" height="50" rx="14"/><rect x="705" y="90" width="150" height="50" rx="14"/><rect x="805" y="260" width="150" height="50" rx="14"/><rect x="955" y="130" width="150" height="50" rx="14"/><rect x="685" y="275" width="150" height="50" rx="14"/></g>
+<g font-family="monospace" font-size="12" text-anchor="middle"><text x="200" y="150" fill="#00f5ff">PYTHON</text><text x="320" y="300" fill="#fff">C++</text><text x="460" y="120" fill="#00f5ff">JAVASCRIPT</text><text x="780" y="120" fill="#7c3aed">REACT</text><text x="880" y="290" fill="#ff2d75">NEXT.JS</text><text x="1030" y="160" fill="#fff">TYPESCRIPT</text><text x="760" y="305" fill="#00f5ff">GIT</text></g>
 <g>
- <circle cx="600" cy="205" r="58" fill="#08080c" stroke="url(#g)" stroke-width="2" filter="url(#glow)"/>
+ <circle cx="600" cy="205" r="58" fill="#08080c" stroke="url(#g)" stroke-width="2"/>
  <circle cx="600" cy="205" r="78" fill="none" stroke="#fff" stroke-opacity=".07" stroke-dasharray="5 10"><animateTransform attributeName="transform" type="rotate" from="0 600 205" to="360 600 205" dur="10s" repeatCount="indefinite"/></circle>
- <circle cx="600" cy="205" r="8" fill="#fff" filter="url(#glow)"><animate attributeName="r" values="6;12;6" dur="1.5s" repeatCount="indefinite"/></circle>
  <text x="600" y="201" text-anchor="middle" fill="#fff" font-family="monospace" font-size="13" letter-spacing="3">JOBAN</text>
  <text x="600" y="222" text-anchor="middle" fill="#777783" font-family="monospace" font-size="9">CORE</text>
 </g>
-<circle cx="180" cy="145" r="4" fill="#00f5ff" filter="url(#glow)"><animate attributeName="r" values="3;8;3" dur="1.8s" repeatCount="indefinite"/></circle>
-<circle cx="1030" cy="155" r="4" fill="#ff2d75" filter="url(#glow)"><animate attributeName="r" values="3;8;3" dur="2.2s" repeatCount="indefinite"/></circle>
 <text x="600" y="365" text-anchor="middle" fill="#555560" font-family="monospace" font-size="9" letter-spacing="3">AI / ML • SOFTWARE • WEB • SYSTEMS</text>
 </svg>
