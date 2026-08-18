@@ -1,106 +1,140 @@
 <div align="center">
 
-# 🎮 JOBAN33 // PIXEL QUEST
+<img src="./assets/pixel-quest-preview.svg" width="100%" alt="Animated pixel-art preview of Joban33 Developer Quest" />
 
-**A 90s-inspired 8-bit portfolio instead of another dead GitHub README.**
+# 🎮 JOBAN33 // THE DEVELOPER QUEST
 
-[▶ PLAY THE PORTFOLIO](./pixel-world.html) · [GITHUB](https://github.com/Joban33)
+### **My GitHub profile is a playable 16-bit RPG.**
+
+**Explore → Interact → Collect XP → Discover projects → Reach GitHub Castle**
+
+<br>
+
+<a href="https://joban33.github.io/Joban33/"><img src="https://img.shields.io/badge/▶_PLAY_THE_GAME-FFD75A?style=for-the-badge&logoColor=07111D" alt="Play the game"></a>
+<a href="https://github.com/Joban33"><img src="https://img.shields.io/badge/GITHUB-18283B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
 ---
 
+## 🌍 ENTER JOBAN'S WORLD
+
+This is not a normal developer README.
+
+I wanted my profile to feel like an old-school RPG where **the portfolio itself is the world**. You control a pixel character, explore different areas, talk to NPCs, collect XP, discover projects and eventually reach GitHub Castle.
+
+### 🎮 Controls
+
+| Action | Control |
+|---|---|
+| Move | `W A S D` / Arrow Keys |
+| Interact | `E` / `ENTER` |
+| Close / Pause | `ESC` |
+| Mobile | On-screen controls |
+
+**[▶ LAUNCH JOBAN'S WORLD](https://joban33.github.io/Joban33/)**
+
+---
+
+## 🗺️ MAP
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│   🏠 JOBAN'S HOUSE        🌲 CODE FOREST      🏙️ PROJECT CITY │
+│          │                     │                    │          │
+│          └──────────────┬──────┴──────────────┬─────┘          │
+│                         │                     │                │
+│                     🧠 AI LAB            💻 PROJECTS           │
+│                         │                     │                │
+│                         └──────────┬──────────┘                │
+│                                    │                           │
+│                          ⛰️ SKILL MOUNTAIN                     │
+│                                    │                           │
+│                           🏰 GITHUB CASTLE                     │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+### 🏠 Player Home
+
+Meet the player behind the character:
+
+**Jobanpreet Singh Gill**  
+B.Tech CSE | AI & ML  
+Builder / Developer / Explorer
+
+### 🌲 Code Forest
+
+Explore programming-themed locations:
+
+`Python Shrine` · `C++ Forge` · `JavaScript Camp` · `React Portal` · `GitHub Chest`
+
+### 🧠 AI Lab
+
+A futuristic zone dedicated to:
+
+`AI / ML` · `Intelligent Systems` · `Experiments`
+
+The animated **Neural Core** is the center of the lab.
+
+### 🏙️ Project City
+
+The main project zone contains actual projects rather than fake portfolio cards.
+
+**[IMAGE CONVERTER LAB →](https://github.com/Joban33/Image-Converter)**  
+**[BLACKSIGNAL STUDIO →](https://github.com/Joban33/hacckker)**
+
+### ⛰️ Skill Mountain
+
+Checkpoints represent the technologies I am actively learning and using:
+
+`Python` · `C++` · `JavaScript` · `React` · `Next.js` · `TypeScript` · `SQL` · `Git/GitHub` · `AI/ML`
+
+### 🏰 GitHub Castle
+
+The final destination.
+
+Repositories · Projects · GitHub · Contact · Profile
+
+---
+
+## ⚔️ CURRENT QUEST
+
+```text
+QUEST 01  →  FIND THE CODE FOREST
+QUEST 02  →  EXPLORE PROJECT CITY
+QUEST 03  →  CLIMB SKILL MOUNTAIN
+QUEST 04  →  REACH GITHUB CASTLE
+
+REWARD: EXPERIENCE
+```
+
+The game also contains collectible XP shards and save data through `localStorage`.
+
+---
+
+## 👾 PLAYER STATUS
+
+```text
+NAME       : JOBAN33
+CLASS      : BUILDER
+SPECIALTY  : AI / SOFTWARE / WEB
+MODE       : BUILD
+STATUS     : ONLINE
+MISSION    : BUILD SOMETHING WORTH REMEMBERING
+```
+
+Current loop:
+
+`LEARN → EXPERIMENT → BUILD → BREAK → REBUILD → SHIP`
+
+---
+
 <div align="center">
-<img src="./assets/pixel-world.svg" alt="Animated 8-bit Joban33 portfolio world" width="100%" />
-</div>
 
-> **MISSION:** Explore the map. Find the locations. Interact with the world. Discover the builder behind the code.
+### **The portfolio isn't the page. The portfolio is the game.**
 
-### 🎮 CONTROLS
-
-`W A S D` / `ARROW KEYS` → move  ·  `E` / `ENTER` → interact
-
-**[▶ OPEN THE PLAYABLE WORLD](./pixel-world.html)**
-
-> GitHub profile READMEs cannot execute arbitrary JavaScript, so the README contains the animated pixel-game scene while the actual playable version lives in `pixel-world.html`. The repository also includes `index.html` as a GitHub Pages entry point.
-
----
-
-## 👾 PLAYER
-
-**Jobanpreet Singh Gill**
-
-B.Tech CSE (AI & ML) student building software, experimenting with AI/ML, and turning interfaces into experiences instead of templates.
-
-```text
-CLASS   : BUILDER
-MODE    : AI / SOFTWARE / WEB / SYSTEMS
-LOOP    : LEARN → EXPERIMENT → BUILD → BREAK → REBUILD → SHIP
-STATUS  : ONLINE
-```
-
----
-
-## 🗺️ WORLD MAP
-
-| Location | What you find |
-| --- | --- |
-| 🏠 **BASE CAMP** | Who I am and what I am building |
-| 💻 **CODE CAVE** | Python, C++, JavaScript, React, Next.js and more |
-| 🌲 **PROJECT FOREST** | Selected projects and experiments |
-| ⚔️ **SKILL SHOP** | Current learning and skill progression |
-| 📡 **SIGNAL TOWER** | GitHub and ways to connect |
-
----
-
-## 🧰 INVENTORY
-
-`Python` `C++` `JavaScript` `React` `Next.js` `TypeScript` `HTML` `CSS` `SQL` `Git` `GitHub`
-
----
-
-## 🧪 CURRENT QUESTS
-
-```text
-PYTHON          █████████░  90%
-C++             ███████░░░  70%
-WEB DEVELOPMENT ████████░░  80%
-AI / ML         █████░░░░░  50%
-SYSTEMS & TOOLS ██████░░░░  60%
-```
-
-These are directional progress indicators, not fake claims of mastery.
-
----
-
-## 🏆 BOSSES I'M BUILDING AGAINST
-
-### Image Converter
-A practical image conversion tool focused on a clean workflow.
-
-**[ENTER PROJECT →](https://github.com/Joban33/Image-Converter)**
-
-### BlackSignal
-A cinematic web experience focused on motion, storytelling and interaction.
-
-**[ENTER PROJECT →](https://github.com/Joban33/hacckker)**
-
----
-
-## 💾 SAVE POINT
-
-```text
-╔══════════════════════════════════════╗
-║  WORLD   : JOBAN33                  ║
-║  STATUS  : SIGNAL ACTIVE            ║
-║  NEXT    : BUILD →                  ║
-║                                      ║
-║         KEEP BUILDING.               ║
-╚══════════════════════════════════════╝
-```
-
-<div align="center">
-
-**[🎮 RE-ENTER THE WORLD](./pixel-world.html)**
+**[🎮 PLAY AGAIN](https://joban33.github.io/Joban33/)**
 
 </div>
