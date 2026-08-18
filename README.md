@@ -2,70 +2,54 @@
 
 # 🎮 JOBAN33 // PIXEL QUEST
 
-**An interactive 8-bit portfolio built like a tiny 90s game.**
+**A 90s-inspired 8-bit portfolio instead of another dead GitHub README.**
 
-[PLAY THE PORTFOLIO WORLD](./pixel-world.html) · [GITHUB](https://github.com/Joban33)
+[▶ PLAY THE PORTFOLIO](./pixel-world.html) · [GITHUB](https://github.com/Joban33)
 
 </div>
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║  JOBAN33.EXE                                                    ║
-║                                                                  ║
-║        ██████╗ ██╗██╗  ██╗███████╗███╗   ██╗                   ║
-║        ██╔══██╗██║╚██╗██╔╝██╔════╝████╗  ██║                   ║
-║        ██████╔╝██║ ╚███╔╝ █████╗  ██╔██╗ ██║                   ║
-║        ██╔══██╗██║ ██╔██╗ ██╔══╝  ██║╚██╗██║                   ║
-║        ██████╔╝██║██╔╝ ██╗███████╗██║ ╚████║                   ║
-║                                                                  ║
-║  CLASS: BUILDER       XP: BUILD > BREAK > REBUILD > SHIP       ║
-║  MODE: AI / SOFTWARE / WEB / SYSTEMS                           ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="./assets/pixel-world.svg" alt="Animated 8-bit Joban33 portfolio world" width="100%" />
+</div>
 
-## 🗺️ THE WORLD
+> **MISSION:** Explore the map. Find the locations. Interact with the world. Discover the builder behind the code.
 
-This is intentionally not another static GitHub profile packed with badges, contribution graphs and a wall of tech logos. The profile is now structured like a small pixel adventure. Walk around the map, find the locations and interact with them.
-
-- 🏠 **BASE CAMP** → who I am and what I am building
-- 💻 **CODE CAVE** → languages and technologies
-- 🌲 **PROJECT FOREST** → selected projects
-- ⚔️ **SKILL SHOP** → current learning and growth
-- 📡 **SIGNAL TOWER** → GitHub and contact
-
-### Controls
+### 🎮 CONTROLS
 
 `W A S D` / `ARROW KEYS` → move  ·  `E` / `ENTER` → interact
 
 **[▶ OPEN THE PLAYABLE WORLD](./pixel-world.html)**
 
+> GitHub profile READMEs cannot execute arbitrary JavaScript, so the README contains the animated pixel-game scene while the actual playable version lives in `pixel-world.html`. The repository also includes `index.html` as a GitHub Pages entry point.
+
 ---
 
-## 👾 PLAYER PROFILE
+## 👾 PLAYER
 
 **Jobanpreet Singh Gill**
 
-B.Tech CSE (AI & ML) student building software, experimenting with AI/ML, and obsessing over interfaces that feel like experiences instead of templates.
+B.Tech CSE (AI & ML) student building software, experimenting with AI/ML, and turning interfaces into experiences instead of templates.
 
-Current loop:
-
-`LEARN → EXPERIMENT → BUILD → BREAK → REBUILD → SHIP`
+```text
+CLASS   : BUILDER
+MODE    : AI / SOFTWARE / WEB / SYSTEMS
+LOOP    : LEARN → EXPERIMENT → BUILD → BREAK → REBUILD → SHIP
+STATUS  : ONLINE
+```
 
 ---
 
-## 🧪 CURRENT QUESTS
+## 🗺️ WORLD MAP
 
-| Quest | Status |
+| Location | What you find |
 | --- | --- |
-| Python | █████████░ 90% |
-| C++ | ███████░░░ 70% |
-| Web Development | ████████░░ 80% |
-| AI / ML | █████░░░░░ 50% |
-| Systems & Tools | ██████░░░░ 60% |
-
-These are directional progress indicators, not fake claims of mastery.
+| 🏠 **BASE CAMP** | Who I am and what I am building |
+| 💻 **CODE CAVE** | Python, C++, JavaScript, React, Next.js and more |
+| 🌲 **PROJECT FOREST** | Selected projects and experiments |
+| ⚔️ **SKILL SHOP** | Current learning and skill progression |
+| 📡 **SIGNAL TOWER** | GitHub and ways to connect |
 
 ---
 
@@ -75,15 +59,29 @@ These are directional progress indicators, not fake claims of mastery.
 
 ---
 
+## 🧪 CURRENT QUESTS
+
+```text
+PYTHON          █████████░  90%
+C++             ███████░░░  70%
+WEB DEVELOPMENT ████████░░  80%
+AI / ML         █████░░░░░  50%
+SYSTEMS & TOOLS ██████░░░░  60%
+```
+
+These are directional progress indicators, not fake claims of mastery.
+
+---
+
 ## 🏆 BOSSES I'M BUILDING AGAINST
 
 ### Image Converter
-A practical web tool for converting images between common formats with a focus on a clean, useful workflow.
+A practical image conversion tool focused on a clean workflow.
 
 **[ENTER PROJECT →](https://github.com/Joban33/Image-Converter)**
 
 ### BlackSignal
-A cinematic web experience exploring motion, storytelling and interaction instead of another generic landing page.
+A cinematic web experience focused on motion, storytelling and interaction.
 
 **[ENTER PROJECT →](https://github.com/Joban33/hacckker)**
 
@@ -91,19 +89,18 @@ A cinematic web experience exploring motion, storytelling and interaction instea
 
 ## 💾 SAVE POINT
 
-If something here catches your attention, open the world, inspect the projects, or explore the repositories.
-
 ```text
-STATUS : ONLINE
-MODE   : BUILD
-WORLD  : JOBAN33
-SIGNAL : ACTIVE
-
-          KEEP BUILDING.
+╔══════════════════════════════════════╗
+║  WORLD   : JOBAN33                  ║
+║  STATUS  : SIGNAL ACTIVE            ║
+║  NEXT    : BUILD →                  ║
+║                                      ║
+║         KEEP BUILDING.               ║
+╚══════════════════════════════════════╝
 ```
 
 <div align="center">
 
-**[🎮 PLAY AGAIN](./pixel-world.html)**
+**[🎮 RE-ENTER THE WORLD](./pixel-world.html)**
 
 </div>
