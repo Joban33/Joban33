@@ -1,84 +1,109 @@
 <div align="center">
 
-<img src="./assets/hero-v3.svg" alt="Jobanpreet Singh Gill animated profile hero" width="100%" />
+# 🎮 JOBAN33 // PIXEL QUEST
 
-<br/>
+**An interactive 8-bit portfolio built like a tiny 90s game.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Joban33-111111?style=for-the-badge&logo=github)](https://github.com/Joban33)
-[![Profile Views](https://komarev.com/ghpvc/?username=Joban33&style=for-the-badge&color=111111)](https://github.com/Joban33)
-
-</div>
-
----
-
-<div align="center">
-<img src="./assets/signal-reel.svg" alt="Animated build signal reel" width="100%" />
-</div>
-
-### `01 / NOW BUILDING`
-
-<div align="center">
-
-`AI / ML`  `SOFTWARE`  `WEB`  `SYSTEMS`
-
-**Learning → Experimenting → Building → Shipping**
+[PLAY THE PORTFOLIO WORLD](./pixel-world.html) · [GITHUB](https://github.com/Joban33)
 
 </div>
 
 ---
 
-### `02 / PROJECT SIGNAL`
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║  JOBAN33.EXE                                                    ║
+║                                                                  ║
+║        ██████╗ ██╗██╗  ██╗███████╗███╗   ██╗                   ║
+║        ██╔══██╗██║╚██╗██╔╝██╔════╝████╗  ██║                   ║
+║        ██████╔╝██║ ╚███╔╝ █████╗  ██╔██╗ ██║                   ║
+║        ██╔══██╗██║ ██╔██╗ ██╔══╝  ██║╚██╗██║                   ║
+║        ██████╔╝██║██╔╝ ██╗███████╗██║ ╚████║                   ║
+║                                                                  ║
+║  CLASS: BUILDER       XP: BUILD > BREAK > REBUILD > SHIP       ║
+║  MODE: AI / SOFTWARE / WEB / SYSTEMS                           ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<div align="center">
-<img src="./assets/projects.svg" alt="Animated selected projects showcase" width="100%" />
-</div>
+## 🗺️ THE WORLD
 
-<br/>
+This is intentionally not another static GitHub profile packed with badges, contribution graphs and a wall of tech logos. The profile is now structured like a small pixel adventure. Walk around the map, find the locations and interact with them.
 
-<div align="center">
+- 🏠 **BASE CAMP** → who I am and what I am building
+- 💻 **CODE CAVE** → languages and technologies
+- 🌲 **PROJECT FOREST** → selected projects
+- ⚔️ **SKILL SHOP** → current learning and growth
+- 📡 **SIGNAL TOWER** → GitHub and contact
 
-**[ IMAGE CONVERTER → ](https://github.com/Joban33/Image-Converter)** &nbsp;&nbsp; **[ BLACKSIGNAL → ](https://github.com/Joban33/hacckker)**
+### Controls
 
-</div>
+`W A S D` / `ARROW KEYS` → move  ·  `E` / `ENTER` → interact
 
----
-
-### `03 / BUILD LOOP`
-
-<div align="center">
-<img src="./assets/build-loop.svg" alt="Animated terminal build loop" width="100%" />
-</div>
-
----
-
-### `04 / STACK`
-
-<div align="center">
-<img src="./assets/stack-v2.svg" alt="Animated technology constellation" width="100%" />
-</div>
-
----
-
-### `05 / TRANSMISSION`
-
-<div align="center">
-<img src="./assets/transmission.svg" alt="Animated GitHub transmission dashboard" width="100%" />
-
-<br/>
-
-**[ VIEW LIVE GITHUB ACTIVITY → ](https://github.com/Joban33)**
-
-</div>
+**[▶ OPEN THE PLAYABLE WORLD](./pixel-world.html)**
 
 ---
 
-### `06 / FINAL TRANSMISSION`
+## 👾 PLAYER PROFILE
+
+**Jobanpreet Singh Gill**
+
+B.Tech CSE (AI & ML) student building software, experimenting with AI/ML, and obsessing over interfaces that feel like experiences instead of templates.
+
+Current loop:
+
+`LEARN → EXPERIMENT → BUILD → BREAK → REBUILD → SHIP`
+
+---
+
+## 🧪 CURRENT QUESTS
+
+| Quest | Status |
+| --- | --- |
+| Python | █████████░ 90% |
+| C++ | ███████░░░ 70% |
+| Web Development | ████████░░ 80% |
+| AI / ML | █████░░░░░ 50% |
+| Systems & Tools | ██████░░░░ 60% |
+
+These are directional progress indicators, not fake claims of mastery.
+
+---
+
+## 🧰 INVENTORY
+
+`Python` `C++` `JavaScript` `React` `Next.js` `TypeScript` `HTML` `CSS` `SQL` `Git` `GitHub`
+
+---
+
+## 🏆 BOSSES I'M BUILDING AGAINST
+
+### Image Converter
+A practical web tool for converting images between common formats with a focus on a clean, useful workflow.
+
+**[ENTER PROJECT →](https://github.com/Joban33/Image-Converter)**
+
+### BlackSignal
+A cinematic web experience exploring motion, storytelling and interaction instead of another generic landing page.
+
+**[ENTER PROJECT →](https://github.com/Joban33/hacckker)**
+
+---
+
+## 💾 SAVE POINT
+
+If something here catches your attention, open the world, inspect the projects, or explore the repositories.
+
+```text
+STATUS : ONLINE
+MODE   : BUILD
+WORLD  : JOBAN33
+SIGNAL : ACTIVE
+
+          KEEP BUILDING.
+```
 
 <div align="center">
-<img src="./assets/final-transmission.svg" alt="Animated final transmission" width="100%" />
 
-<br/>
-
-**[ GITHUB ](https://github.com/Joban33) · [ PROJECTS ](https://github.com/Joban33?tab=repositories)**
+**[🎮 PLAY AGAIN](./pixel-world.html)**
 
 </div>
