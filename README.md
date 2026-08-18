@@ -1,70 +1,45 @@
 <div align="center">
 
-# JOBAN33 / A WORLD IN MOTION
+# JOBAN33
 
-### **This is not a portfolio page. It is a small world built from my work.**
+### A WORLD BUILT IN CODE.
 
-Explore the world, discover the signals, and open the projects hidden inside it.
-
-**[ENTER THE WORLD →](https://joban33.github.io/Joban33/)**
+`AI / SOFTWARE / WEB / EXPERIMENTS`
 
 </div>
 
 ---
 
-## THE IDEA
+This profile is intentionally not a conventional developer portfolio.
 
-Most GitHub profiles try to prove that someone can code by stacking badges, charts, icons and skill lists.
+The homepage is a cinematic sequence that plays automatically through five chapters:
 
-That's boring.
+**ORIGIN → BUILD → EXPERIMENT → PROJECTS → NEXT**
 
-This profile treats the interface itself as the experiment. It is an animated pixel universe where identity, projects, tools and future work exist as places you can discover.
+No dashboard. No badge wall. No fake progress meters.
 
-**Move. Look around. Find something interesting.**
+Just the work, the atmosphere around it, and what comes next.
 
-### Controls
+## Selected work
 
-`W A S D` / `ARROW KEYS` → move  
-`E` / `ENTER` → discover a signal  
-`ESC` → close an interaction
+**Image Converter**  
+A practical image conversion tool focused on making the workflow disappear.
 
----
+**BlackSignal**  
+A cinematic web experiment built around motion, atmosphere and storytelling.
 
-## SIGNALS
+## Current direction
 
-**ORIGIN**  
-Jobanpreet Singh Gill · B.Tech CSE · AI & ML
+B.Tech CSE · AI & ML
 
-**IMAGE CONVERTER**  
-A practical image conversion product.
-
-**BLACKSIGNAL**  
-A cinematic web experiment built around motion and storytelling.
-
-**BUILD STACK**  
 Python · C++ · JavaScript · React · Next.js · TypeScript · SQL · Git
-
-**NEXT SIGNAL**  
-AI / ML · systems · better products · harder problems
-
----
-
-## PROJECTS
-
-- **[Image Converter →](https://github.com/Joban33/Image-Converter)**
-- **[BlackSignal →](https://github.com/Joban33/hacckker)**
-- **[All repositories →](https://github.com/Joban33?tab=repositories)**
-
----
-
-## THE LOOP
 
 `LEARN → EXPERIMENT → BUILD → BREAK → REBUILD → SHIP`
 
-The world changes as the work changes.
+---
 
 <div align="center">
 
-### **[ENTER JOBAN33 →](https://joban33.github.io/Joban33/)**
+**THE INTERFACE IS THE PORTFOLIO.**
 
 </div>
