@@ -1,140 +1,70 @@
 <div align="center">
 
-<img src="./assets/pixel-quest-preview.svg" width="100%" alt="Animated pixel-art preview of Joban33 Developer Quest" />
+# JOBAN33 / A WORLD IN MOTION
 
-# 🎮 JOBAN33 // THE DEVELOPER QUEST
+### **This is not a portfolio page. It is a small world built from my work.**
 
-### **My GitHub profile is a playable 16-bit RPG.**
+Explore the world, discover the signals, and open the projects hidden inside it.
 
-**Explore → Interact → Collect XP → Discover projects → Reach GitHub Castle**
-
-<br>
-
-<a href="https://joban33.github.io/Joban33/"><img src="https://img.shields.io/badge/▶_PLAY_THE_GAME-FFD75A?style=for-the-badge&logoColor=07111D" alt="Play the game"></a>
-<a href="https://github.com/Joban33"><img src="https://img.shields.io/badge/GITHUB-18283B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+**[ENTER THE WORLD →](https://joban33.github.io/Joban33/)**
 
 </div>
 
 ---
 
-## 🌍 ENTER JOBAN'S WORLD
+## THE IDEA
 
-This is not a normal developer README.
+Most GitHub profiles try to prove that someone can code by stacking badges, charts, icons and skill lists.
 
-I wanted my profile to feel like an old-school RPG where **the portfolio itself is the world**. You control a pixel character, explore different areas, talk to NPCs, collect XP, discover projects and eventually reach GitHub Castle.
+That's boring.
 
-### 🎮 Controls
+This profile treats the interface itself as the experiment. It is an animated pixel universe where identity, projects, tools and future work exist as places you can discover.
 
-| Action | Control |
-|---|---|
-| Move | `W A S D` / Arrow Keys |
-| Interact | `E` / `ENTER` |
-| Close / Pause | `ESC` |
-| Mobile | On-screen controls |
+**Move. Look around. Find something interesting.**
 
-**[▶ LAUNCH JOBAN'S WORLD](https://joban33.github.io/Joban33/)**
+### Controls
 
----
-
-## 🗺️ MAP
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│   🏠 JOBAN'S HOUSE        🌲 CODE FOREST      🏙️ PROJECT CITY │
-│          │                     │                    │          │
-│          └──────────────┬──────┴──────────────┬─────┘          │
-│                         │                     │                │
-│                     🧠 AI LAB            💻 PROJECTS           │
-│                         │                     │                │
-│                         └──────────┬──────────┘                │
-│                                    │                           │
-│                          ⛰️ SKILL MOUNTAIN                     │
-│                                    │                           │
-│                           🏰 GITHUB CASTLE                     │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
-### 🏠 Player Home
-
-Meet the player behind the character:
-
-**Jobanpreet Singh Gill**  
-B.Tech CSE | AI & ML  
-Builder / Developer / Explorer
-
-### 🌲 Code Forest
-
-Explore programming-themed locations:
-
-`Python Shrine` · `C++ Forge` · `JavaScript Camp` · `React Portal` · `GitHub Chest`
-
-### 🧠 AI Lab
-
-A futuristic zone dedicated to:
-
-`AI / ML` · `Intelligent Systems` · `Experiments`
-
-The animated **Neural Core** is the center of the lab.
-
-### 🏙️ Project City
-
-The main project zone contains actual projects rather than fake portfolio cards.
-
-**[IMAGE CONVERTER LAB →](https://github.com/Joban33/Image-Converter)**  
-**[BLACKSIGNAL STUDIO →](https://github.com/Joban33/hacckker)**
-
-### ⛰️ Skill Mountain
-
-Checkpoints represent the technologies I am actively learning and using:
-
-`Python` · `C++` · `JavaScript` · `React` · `Next.js` · `TypeScript` · `SQL` · `Git/GitHub` · `AI/ML`
-
-### 🏰 GitHub Castle
-
-The final destination.
-
-Repositories · Projects · GitHub · Contact · Profile
+`W A S D` / `ARROW KEYS` → move  
+`E` / `ENTER` → discover a signal  
+`ESC` → close an interaction
 
 ---
 
-## ⚔️ CURRENT QUEST
+## SIGNALS
 
-```text
-QUEST 01  →  FIND THE CODE FOREST
-QUEST 02  →  EXPLORE PROJECT CITY
-QUEST 03  →  CLIMB SKILL MOUNTAIN
-QUEST 04  →  REACH GITHUB CASTLE
+**ORIGIN**  
+Jobanpreet Singh Gill · B.Tech CSE · AI & ML
 
-REWARD: EXPERIENCE
-```
+**IMAGE CONVERTER**  
+A practical image conversion product.
 
-The game also contains collectible XP shards and save data through `localStorage`.
+**BLACKSIGNAL**  
+A cinematic web experiment built around motion and storytelling.
+
+**BUILD STACK**  
+Python · C++ · JavaScript · React · Next.js · TypeScript · SQL · Git
+
+**NEXT SIGNAL**  
+AI / ML · systems · better products · harder problems
 
 ---
 
-## 👾 PLAYER STATUS
+## PROJECTS
 
-```text
-NAME       : JOBAN33
-CLASS      : BUILDER
-SPECIALTY  : AI / SOFTWARE / WEB
-MODE       : BUILD
-STATUS     : ONLINE
-MISSION    : BUILD SOMETHING WORTH REMEMBERING
-```
+- **[Image Converter →](https://github.com/Joban33/Image-Converter)**
+- **[BlackSignal →](https://github.com/Joban33/hacckker)**
+- **[All repositories →](https://github.com/Joban33?tab=repositories)**
 
-Current loop:
+---
+
+## THE LOOP
 
 `LEARN → EXPERIMENT → BUILD → BREAK → REBUILD → SHIP`
 
----
+The world changes as the work changes.
 
 <div align="center">
 
-### **The portfolio isn't the page. The portfolio is the game.**
-
-**[🎮 PLAY AGAIN](https://joban33.github.io/Joban33/)**
+### **[ENTER JOBAN33 →](https://joban33.github.io/Joban33/)**
 
 </div>
