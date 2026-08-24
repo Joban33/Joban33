@@ -1,53 +1,34 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Jobanpreet Singh Gill — The Builder's Journey" />
+  <img src="https://raw.githubusercontent.com/Joban33/Joban33/main/assets/hero.svg" width="100%" alt="Jobanpreet Singh Gill — The Builder's Journey" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/Joban33?tab=repositories"><b>[ EXPLORE BUILDS ]</b></a>
+  <a href="https://github.com/Joban33?tab=repositories"><b>◀ EXPLORE BUILDS</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Joban33/Image-Converter"><b>[ FEATURED PROJECT ]</b></a>
+  <a href="https://github.com/Joban33/Image-Converter"><b>ENTER FEATURED PROJECT ▶</b></a>
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/player.png" width="96" alt="Pixel character representing Jobanpreet Singh Gill" />
+  <img src="https://raw.githubusercontent.com/Joban33/Joban33/main/assets/journey.svg" width="100%" alt="Animated pixel world map showing Joban's current journey" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Joban33/Joban33/main/assets/quests.svg" width="100%" alt="Animated pixel quests showing selected projects" />
+</div>
+
+<br/>
+
+<div align="center">
   <h3>PLAYER 01 // JOBAN</h3>
   <p><code>ROLE</code> Computer Science student learning to build useful things</p>
   <p><code>FOCUS</code> Software · AI/ML · Web · experiments</p>
   <p><code>CURRENT QUEST</code> Stronger fundamentals, better projects, real execution</p>
   <p><code>BUILD LOOP</code> Learn → Experiment → Build → Break → Rebuild → Ship</p>
 </div>
-
-<br/>
-
-## 🗺️ WORLD MAP // CURRENT JOURNEY
-
-| AREA | WHAT I'M BUILDING |
-|:--|:--|
-| **CODE DISTRICT** | C++ · Python · JavaScript · problem solving |
-| **SYSTEMS LAB** | React · Next.js · TypeScript · SQL · Git |
-| **AI FRONTIER** | Exploring AI/ML through fundamentals and projects |
-| **INVENTOR'S BENCH** | Hardware experiments and embedded prototypes |
-
-<br/>
-
-## ⚔️ SELECTED BUILDS
-
-### `QUEST 01 // IMAGE CONVERTER`
-A practical image conversion tool focused on a simple workflow and useful output.
-
-[ **ENTER PROJECT →** ](https://github.com/Joban33/Image-Converter)
-
-### `QUEST 02 // BLACKSIGNAL`
-An interactive web experiment exploring cinematic storytelling, motion and interface design.
-
-`STATUS // EXPERIMENTING`
-
-### `QUEST 03 // ELECTRICITY THEFT DETECTION`
-An embedded-system prototype exploring current monitoring and unauthorized-load detection.
-
-`STATUS // PROTOTYPE BUILT`
 
 <br/>
 
@@ -59,10 +40,8 @@ An embedded-system prototype exploring current monitoring and unauthorized-load 
 <br/>
 
 <div align="center">
-  <h3>THE NEXT WORLD IS NOT UNLOCKED YET.</h3>
+  <h2>THE NEXT WORLD IS NOT UNLOCKED YET.</h2>
   <p><code>KEEP BUILDING. KEEP GETTING BETTER.</code></p>
-  <p>
-    <a href="https://github.com/Joban33?tab=repositories"><b>[ A — VIEW ALL BUILDS ]</b></a>
-  </p>
+  <p><a href="https://github.com/Joban33?tab=repositories"><b>[ VIEW ALL BUILDS ]</b></a></p>
   <sub><code>PLAYER 01 // STILL LEARNING // STILL BUILDING</code></sub>
 </div>
