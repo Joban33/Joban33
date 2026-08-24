@@ -1,35 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Jobanpreet Singh Gill animated profile hero">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050505"/><stop offset="0.55" stop-color="#0d0d12"/><stop offset="1" stop-color="#050505"/></linearGradient>
-  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset="0.5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff2d75"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
-  <clipPath id="clip"><rect width="1200" height="420" rx="28"/></clipPath>
-</defs>
-<g clip-path="url(#clip)">
-<rect width="1200" height="420" fill="url(#bg)"/>
-<rect width="1200" height="420" fill="url(#grid)"/>
-<path d="M-80 330 C180 180 250 430 500 270 S900 80 1280 220" fill="none" stroke="url(#line)" stroke-width="1.5" opacity=".35"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M-80 330 C180 180 250 430 500 270 S900 80 1280 220;M-80 270 C180 420 300 130 520 250 S930 390 1280 150;M-80 330 C180 180 250 430 500 270 S900 80 1280 220"/></path>
-<g transform="translate(70 64)">
-  <text x="0" y="0" fill="#00f5ff" font-family="monospace" font-size="13" letter-spacing="4">SYSTEM / PROFILE_01</text>
-  <text x="0" y="90" fill="#fff" font-family="Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2">JOBANPREET</text>
-  <text x="0" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2">SINGH GILL</text>
-  <rect x="0" y="174" width="72" height="3" rx="1.5" fill="url(#line)"><animate attributeName="width" values="72;250;72" dur="3.5s" repeatCount="indefinite"/></rect>
-  <text x="0" y="215" fill="#b8b8c2" font-family="monospace" font-size="17">AI / ML  •  SOFTWARE  •  BUILDER</text>
-  <text x="0" y="260" fill="#777783" font-family="monospace" font-size="12">BUILDING THINGS THAT SHOULD NOT LOOK BORING.</text>
-</g>
-<g transform="translate(870 70)">
-  <rect width="250" height="250" rx="18" fill="#07070a" stroke="#ffffff" stroke-opacity=".12"/>
-  <circle cx="125" cy="125" r="74" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
-  <circle cx="125" cy="125" r="48" fill="none" stroke="url(#line)" stroke-width="2" stroke-dasharray="9 12" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" from="0 125 125" to="360 125 125" dur="8s" repeatCount="indefinite"/></circle>
-  <path d="M125 48V25M125 202v23M48 125H25M202 125h23" stroke="#00f5ff" stroke-width="2" opacity=".7"/>
-  <text x="125" y="120" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" letter-spacing="3">GHOST</text>
-  <text x="125" y="143" text-anchor="middle" fill="#777783" font-family="monospace" font-size="9">ONLINE</text>
-</g>
-<g transform="translate(70 355)" font-family="monospace" font-size="11">
- <text fill="#6f707a">STATUS</text><text x="62" fill="#00f5ff">● ACTIVE</text>
- <text x="185" fill="#6f707a">MODE</text><text x="235" fill="#fff">BUILD</text>
- <text x="330" fill="#6f707a">LOCATION</text><text x="405" fill="#fff">INDIA</text>
-</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<title id="title">Jobanpreet Singh Gill — The Builder's Journey</title>
+<desc id="desc">A dark pixel-art RPG inspired developer profile featuring Joban's pixel character.</desc>
+<style>
+.p{font-family:Courier New,monospace;font-weight:900}.blink{animation:b 1.4s steps(2,end) infinite}.scan{animation:s 4s linear infinite}@keyframes b{50%{opacity:.35}}@keyframes s{from{transform:translateY(-120px)}to{transform:translateY(500px)}}
+</style>
+<rect width="1200" height="460" fill="#0b0d12"/><rect width="1200" height="70" fill="#121722"/><path d="M0 70H1200" stroke="#30384a" stroke-width="2"/>
+<g class="p" font-size="18" fill="#b9c4d6"><text x="36" y="28">JOBAN.EXE</text><text x="36" y="52">STATUS // BUILDING</text><text x="870" y="28">WORLD 01</text><text x="870" y="52">THE BUILDER'S JOURNEY</text></g>
+<g opacity=".18" stroke="#4b5563" stroke-width="1"><path d="M0 120H1200M0 200H1200M0 280H1200M0 360H1200"/><path d="M100 70V460M300 70V460M500 70V460M700 70V460M900 70V460M1100 70V460"/></g>
+<rect x="0" y="405" width="1200" height="55" fill="#171b24"/><path d="M0 405H1200" stroke="#e08b3e" stroke-width="4"/>
+<g class="p"><text x="72" y="152" font-size="50" fill="#f4f0e6">JOBANPREET SINGH GILL</text><text x="76" y="198" font-size="21" fill="#e08b3e">STUDENT // BUILDER // IN PROGRESS</text><text x="76" y="248" font-size="18" fill="#b9c4d6">I'M LEARNING THE CRAFT OF TURNING IDEAS INTO THINGS THAT WORK.</text><text x="76" y="292" font-size="17" fill="#7f8ca3">CODE  →  EXPERIMENT  →  BREAK  →  REBUILD  →  SHIP</text><text x="76" y="348" font-size="19" fill="#f4f0e6" class="blink">▼ START THE JOURNEY</text></g>
+<g transform="translate(980 104) scale(4)"><image href="./player.png" width="24" height="64" style="image-rendering:pixelated"/></g>
+<g fill="#e08b3e"><rect x="850" y="388" width="18" height="18"/><rect x="875" y="380" width="18" height="26"/><rect x="900" y="392" width="18" height="14"/></g>
 </svg>
