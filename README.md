@@ -40,8 +40,12 @@
 <br/>
 
 <div align="center">
-  <h2>THE NEXT WORLD IS NOT UNLOCKED YET.</h2>
-  <p><code>KEEP BUILDING. KEEP GETTING BETTER.</code></p>
+  <img src="https://raw.githubusercontent.com/Joban33/Joban33/main/assets/next-world.svg" width="100%" alt="Animated pixel horizon showing the next stage of the journey" />
+</div>
+
+<br/>
+
+<div align="center">
   <p><a href="https://github.com/Joban33?tab=repositories"><b>[ VIEW ALL BUILDS ]</b></a></p>
   <sub><code>PLAYER 01 // STILL LEARNING // STILL BUILDING</code></sub>
 </div>
