@@ -10,24 +10,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Joban33/Joban33/main/assets/player-profile.svg" width="100%" alt="Joban player profile with original pixel character highlighted" />
-</div>
-
-<br/>
-
-r">
-  <img src="https://raw.githubusercontent.com/Joban33/Joban33/main/assets/hero.svg" width="100%" alt="Jobanpreet Singh Gill — The Builder's Journey" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/Joban33?tab=repositories"><b>◀ EXPLORE REPOSITORIES</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Joban33/Image-Converter"><b>VIEW FEATURED BUILD ▶</b></a>
-</p>
-
-<br/>
-
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
