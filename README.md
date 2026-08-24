@@ -31,7 +31,7 @@ Real execution.
 
 </td>
 <td width="42%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/Joban33/Joban33/main/assets/player.png" width="180" alt="Pixel avatar of Joban" />
+<img src="https://raw.githubusercontent.com/Joban33/Joban33/main/assets/player-crisp.svg" width="180" alt="Crisp pixel avatar of Joban" />
 
 ### PLAYER STATS
 ❤️ **PASSION** `████████░░`<br/>
